@@ -10,7 +10,7 @@ Tags: Data Science, Data Analysis, Machine Learning, Linear Regression,Random Fo
 Public transport is an effective tool to address multiple societal challenges, regarding mobility, sustainability and livability. In this report we are going to study how Mobiticket a ticket booking platform can expect a number of bookings on a particular day and time.
 We are provided with the data of travel patterns of different cities which ends in Nairobi. We are building a regression model to help Mobiticket to predict number of tickets can sell on each ride.
 
-In this project I had presented my analysis of data and  I had used various regression algorith to predict number of tickets namely.
+In this project We had presented my analysis of data and  We had used various regression algorith to predict number of tickets namely.
 
 1. Linear Regression
 2. Ridge and Lasso
@@ -24,7 +24,7 @@ In the first step we collected data and explored data set to get a rough idea ab
 
 In this data the target variable was not given so we calculated Target variable by grouping data by ride and counted number of tickets for each ride id.
 
-In EDA we divided analysis into several part to get better idea about data we checked month and days wise travel patterns, at what time of day people travel most etc. We used barplot to check travell patterns of traveller from cities, month wise, day wise, year wise and weekend wise. Pie Chart to check which type of vehicle is used mostly for transporation, checked relationship of vehicle type and target variable also check relationship of travel time with target variable with respect to vehicle type.
+In EDA we divided analysis into several part to get better idea about data we checked month and days wise travel patterns, at what time of day people travel most etc. We used bar plot to check travel patterns of traveller from cities, month wise, day wise, year wise and weekend wise. Pie Chart to check which type of vehicle is used mostly for transportation, checked relationship of vehicle type and target variable also check relationship of travel time with target variable with respect to vehicle type.
 
 After that we perform feature engineering, in feature engineering we created some new feature form available features with the goal of simplifying and speeding up data transformation while also improving model performance.
 
