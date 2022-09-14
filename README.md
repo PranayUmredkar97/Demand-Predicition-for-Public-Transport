@@ -20,11 +20,11 @@ In this project I had presented my analysis of data and  I had used various regr
 
 We followed step by step process for the project like data collection, data cleaning, EDA, Visualization, Model Training and Testing, Hyperparameter Tuning and Evaluation.
 
-In the first step we collected data and explored data set to get a rough idea about data. In data wrangling process on raw data, formatted data type of columns and added some columns for our analysis.
+In the first step we collected data and explored data set to get a rough idea about data. In data wrangling process on raw data, formatted data type of columns and added some columns for our analysis. 
 
 In this data the target variable was not given so we calculated Target variable by grouping data by ride and counted number of tickets for each ride id.
 
-In EDA we divided analysis into several part to get better idea about data we checked month and days wise travel patterns, at what time of day people travel most etc.
+In EDA we divided analysis into several part to get better idea about data we checked month and days wise travel patterns, at what time of day people travel most etc. We used barplot to check travell patterns of traveller from cities, month wise, day wise, year wise and weekend wise. Pie Chart to check which type of vehicle is used mostly for transporation, checked relationship of vehicle type and target variable also check relationship of travel time with target variable with respect to vehicle type.
 
 After that we perform feature engineering, in feature engineering we created some new feature form available features with the goal of simplifying and speeding up data transformation while also improving model performance.
 
