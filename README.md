@@ -3,5 +3,5 @@
 
 Tags: Data Science, Data Analysis, Machine Learning, Linear Regression,Random Forest
 
-![](https://drive.google.com/file/d/1KV4KA4WdRJIuktfo_xF3gBA02wqfUCPj/view?usp=sharing)
+![image](https://drive.google.com/file/d/1KV4KA4WdRJIuktfo_xF3gBA02wqfUCPj/view?usp=sharing)
 
