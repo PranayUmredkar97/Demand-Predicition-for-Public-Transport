@@ -15,8 +15,7 @@ In this project We had presented my analysis of data and  We had used various re
 1. Linear Regression
 2. Ridge and Lasso
 3. Gradient Boosting
-4. Random Forest
-5. XGBoost
+4. XGBoost
 
 We followed step by step process for the project like data collection, data cleaning, EDA, Visualization, Model Training and Testing, Hyperparameter Tuning and Evaluation.
 
@@ -41,6 +40,7 @@ After feature engineering we selected feature to use to train our model and enco
 As data is ready, we trained different model to check their performances and performed hyperparameter tuning to improve their performances by GridsearchCV technique. Out of all the model XGboost models gives the best performance.
 
 Model Performance:
-![WhatsApp Image 2022-09-14 at 2 54 31 PM](https://user-images.githubusercontent.com/71922973/190116300-4f22a350-f6a4-4d10-bf87-353d3a4c915d.jpeg)
+
+![WhatsApp Image 2022-09-22 at 2 25 23 PM](https://user-images.githubusercontent.com/71922973/191704045-dd6c5a1d-7c37-44ca-804f-4ead34c90c15.jpeg)
 
 
