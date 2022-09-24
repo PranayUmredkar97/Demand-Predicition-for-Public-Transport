@@ -1,7 +1,7 @@
 # **Demand-Predicition-for-Public-Transport**
 ## **Build a model that predicts the number of seats that Mobiticket can expect to sell for each ride, i.e. for a specific route on a specific date and time.**
 
-Tags: Data Science, Data Analysis, Machine Learning, Linear Regression,Random Forest
+Tags: Data Science, Data Analysis, Machine Learning, Linear Regression,XGboost
 
 ![chuttersnap-kq8iWoh5-mU-unsplash (1)](https://user-images.githubusercontent.com/71922973/190112251-a2ff11a8-cb04-464c-9ead-196bb5a6c27a.jpg)
 
